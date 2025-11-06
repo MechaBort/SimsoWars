@@ -126,7 +126,6 @@
     <ClCompile Include="Proyecto Allegro.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Funciones juego.h" />
     <ClInclude Include="Funciones.h" />
     <ClInclude Include="juego.h" />
   </ItemGroup>
